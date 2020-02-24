@@ -5,10 +5,6 @@
  */
 package org.maejaporja.driver;
 
-import java.time.Duration;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-import java.util.Arrays;
 import org.maejaporja.model.Customer;
 import org.maejaporja.model.Ticket.ParkingFeeMachine;
 import org.maejaporja.model.Ticket.ParkingTicketMachine;
@@ -18,7 +14,7 @@ import org.maejaporja.model.vehicle.Vehicle;
 
 /**
  *
- * @author NATWORPONGLOYSWAI
+ * @author NATWORPONGLOYSWAI&NARISARALIMPISIRISANT
  */
 public class ParkingLotDriver {
     public static void main(String[] args) {

@@ -7,7 +7,7 @@ package org.maejaporja.model.parking;
 
 /**
  *
- * @author NATWORPONGLOYSWAI
+ * @author NATWORPONGLOYSWAI&NARISARALIMPISIRISANT
  */
 public enum ParkingSpotStatus {
     FREE, FULL

@@ -15,7 +15,7 @@ import org.maejaporja.model.parking.ParkingSpot;
 
 /**
  *
- * @author NATWORPONGLOYSWAI
+ * @author NATWORPONGLOYSWAI&NARISARALIMPISIRISANT
  */
 public class Customer {
     private Vehicle driving;

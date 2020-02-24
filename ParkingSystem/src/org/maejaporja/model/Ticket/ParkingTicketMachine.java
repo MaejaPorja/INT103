@@ -9,7 +9,7 @@ import org.maejaporja.model.vehicle.Vehicle;
 
 /**
  *
- * @author NATWORPONGLOYSWAI
+ * @author NATWORPONGLOYSWAI&NARISARALIMPISIRISANT
  */
 public class ParkingTicketMachine {
     public static int parkingTicketMachineCount;

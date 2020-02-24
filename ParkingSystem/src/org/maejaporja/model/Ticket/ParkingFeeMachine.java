@@ -9,7 +9,7 @@ import java.time.Duration;
 
 /**
  *
- * @author NATWORPONGLOYSWAI
+ * @author NATWORPONGLOYSWAI&NARISARALIMPISIRISANT
  */
 public class ParkingFeeMachine {
     public static int parkingFeeMachineCount;

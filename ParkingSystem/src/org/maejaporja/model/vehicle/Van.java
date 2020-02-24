@@ -7,7 +7,7 @@ package org.maejaporja.model.vehicle;
 
 /**
  *
- * @author NATWORPONGLOYSWAI
+ * @author NATWORPONGLOYSWAI&NARISARALIMPISIRISANT
  */
 public class Van extends Vehicle{
     
