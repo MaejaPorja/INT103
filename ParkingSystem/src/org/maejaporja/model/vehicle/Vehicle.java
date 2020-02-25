@@ -9,7 +9,7 @@ package org.maejaporja.model.vehicle;
  *
  * @author NATWORPONGLOYSWAI&NARISARALIMPISIRISANT
  */
-public class Vehicle {
+public abstract class Vehicle {
     public static int vehicleCount;
     public final String LICENSE_PLATE;
     
