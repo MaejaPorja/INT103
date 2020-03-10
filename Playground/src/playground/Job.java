@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package parking;
+package playground;
 
 /**
  *
  * @author User
  */
-public enum ParkingTicketStatus {
-    Active,Paid,Lost
+public enum Job {
+    STUDENT, ENGINEER, PROGRAMMER, WEBDEVELOPER
 }
